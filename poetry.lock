@@ -563,7 +563,7 @@ python-versions = "*"
 
 [[package]]
 name = "pyjwt"
-version = "2.0.1"
+version = "2.1.0"
 description = "JSON Web Token implementation in Python"
 category = "main"
 optional = false
@@ -596,7 +596,7 @@ python-versions = ">=2.6, !=3.0.*, !=3.1.*, !=3.2.*"
 
 [[package]]
 name = "pytest"
-version = "6.2.3"
+version = "6.2.4"
 description = "pytest: simple powerful testing with Python"
 category = "dev"
 optional = false
@@ -1226,8 +1226,8 @@ pyinstaller-hooks-contrib = [
     {file = "pyinstaller_hooks_contrib-2020.11-py2.py3-none-any.whl", hash = "sha256:fa8280b79d8a2b267a2e43ff44f73b3e4a68fc8d205b8d34e8e06c960f7c2fcf"},
 ]
 pyjwt = [
-    {file = "PyJWT-2.0.1-py3-none-any.whl", hash = "sha256:b70b15f89dc69b993d8a8d32c299032d5355c82f9b5b7e851d1a6d706dffe847"},
-    {file = "PyJWT-2.0.1.tar.gz", hash = "sha256:a5c70a06e1f33d81ef25eecd50d50bd30e34de1ca8b2b9fa3fe0daaabcf69bf7"},
+    {file = "PyJWT-2.1.0-py3-none-any.whl", hash = "sha256:934d73fbba91b0483d3857d1aff50e96b2a892384ee2c17417ed3203f173fca1"},
+    {file = "PyJWT-2.1.0.tar.gz", hash = "sha256:fba44e7898bbca160a2b2b501f492824fc8382485d3a6f11ba5d0c1937ce6130"},
 ]
 pymupdf = [
     {file = "PyMuPDF-1.18.12-cp36-cp36m-macosx_10_9_x86_64.whl", hash = "sha256:fc63949b63990baa4b738a151bc2d745e3b0d0bc0be5ac2e4fc14f4898d99a70"},
@@ -1253,8 +1253,8 @@ pyparsing = [
     {file = "pyparsing-2.4.7.tar.gz", hash = "sha256:c203ec8783bf771a155b207279b9bccb8dea02d8f0c9e5f8ead507bc3246ecc1"},
 ]
 pytest = [
-    {file = "pytest-6.2.3-py3-none-any.whl", hash = "sha256:6ad9c7bdf517a808242b998ac20063c41532a570d088d77eec1ee12b0b5574bc"},
-    {file = "pytest-6.2.3.tar.gz", hash = "sha256:671238a46e4df0f3498d1c3270e5deb9b32d25134c99b7d75370a68cfbe9b634"},
+    {file = "pytest-6.2.4-py3-none-any.whl", hash = "sha256:91ef2131a9bd6be8f76f1f08eac5c5317221d6ad1e143ae03894b862e8976890"},
+    {file = "pytest-6.2.4.tar.gz", hash = "sha256:50bcad0a0b9c5a72c8e4e7c9855a3ad496ca6a881a3641b4260605450772c54b"},
 ]
 pytest-cov = [
     {file = "pytest-cov-2.11.1.tar.gz", hash = "sha256:359952d9d39b9f822d9d29324483e7ba04a3a17dd7d05aa6beb7ea01e359e5f7"},
